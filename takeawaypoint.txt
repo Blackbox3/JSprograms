@@ -1,0 +1,54 @@
+JS 
+  single threaded
+  synchronous
+  blocking language
+  Dynamic language
+
+-> clg tab for the shortcut console.log
+-> ctrl+ c for exit
+
+Data type
+1> number -> 1,2,10,4.5
+   boolean -> true, false
+   String -> "a" , "anusha", "abc@", "1" , "true"
+
+String conversion
+ 
+number conversion
+ only number string can be converted into string
+ String 
+     "10" -> 10
+ boolean 
+     true -> 1
+
+boolean coversion
+  alL empty are false
+  
+//jhamachowk
+
+Function
+* /by default function will return with undefined value.
+
+Array
+ -> array is the collection of same and different multiple values
+
+ String
+ -> include
+ -> StartsWith
+ -> endsWith
+ -> replace
+ -> replaceAll
+ 
+ + operator
+   1 + 1 =2 
+  "a" + "b" = "a"
+  "1" + "1" = "11"
+   1+ "1" = "11"
+
+=> forEach doesn't produce any Data
+
+//map
+map is used when both the input and output are same type and have same length
+
+//filter
+we use only true and false for the return value
